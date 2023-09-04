@@ -158,6 +158,11 @@ The [**Schedule**](schedule.qmd) is on an extra page and will be updated continu
 
 ## Literature
 
+[More learning resources will be provided later.]{style='color:red;'}
+
+During the course we will work on the side through this book: 
+
+*Dykes, B. (2019). Effective Data Storytelling: How to Drive Change with Data, Narrative and Visuals. John Wiley & Sons.*
 
 
 
