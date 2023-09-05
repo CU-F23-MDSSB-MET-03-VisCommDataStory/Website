@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Developing Schedule\n\n\n\n\n\nThe schedule is tentative it will be continuously updated also with readings and homework.\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDates\nTopic\nTools\n\n\n\n\n1\n09-04, 09-07\nWhat is Data Science? Course Organization, Our software toolkit  Slides Week 1\nR\n\n\n2\n09-11, 09-14\nData import, Data Visualization, Data formats\nR\n\n\n3\n09-18, 09-21\nData Wrangling, Relational Data, Exploratory Data Analysis, Data Science Projects\npython\n\n\n4\n09-25, 09-28\nFunctions, Descriptive Statistics, Principle Component Analysis, Matrices\npython\n\n\n5\n10-02, 10-05\nModeling, Linear Model, Calculus\nR\n\n\n6\n10-09, 10-12\nClassification Problems, Logistic Regression, Prediction\npython\n\n\n7\n10-16, 10-19\nProbability, Random Variables, Performance Metrics\nR\n\n\n8\n10-23, 10-26\nStatistics , Hypothesis Testing, Simulating Data\npython\n\n\n9\n10-30, 11-02\nModeling Mindsets, Cluster Analysis\nR\n\n\n10\n11-06, 11-09\nDomain Knowledge, Communication\npython\n\n\n11\n11-13, 11-16\nTo be decided\nR\n\n\n12\n11-20, 11-23\nTo be decided\npython\n\n\n13\n11-27, 11-30\nTo be decided\nR / python\n\n\n14\n12-04, 12-07\nCourse Review, Exam Preparation\nPresentations\n\n\n\n\n\n\n\n\n\nNote\n\n\n\n\n\nAll topics in the future are subject to change and adaptation to student needs. Topics in italics are tentative."
+    "text": "Developing Schedule\n\n\n\n\n\nA draft schedule will be published here in Week 1.\nThe schedule is tentative it will be continuously updated also with readings, preparation tasks, pointers to student contributions."
   },
   {
     "objectID": "index.html",
@@ -95,7 +95,7 @@
     "href": "index.html#literature",
     "title": "Visual Communication and Data Story-telling",
     "section": "12 Literature",
-    "text": "12 Literature\nMore learning resources will be provided later.\nDuring the course we will work on the side through this book:\nDykes, B. (2019). Effective Data Storytelling: How to Drive Change with Data, Narrative and Visuals. John Wiley & Sons."
+    "text": "12 Literature\nMore learning resources will be provided throughout the course.\nDuring the course we will work read through this book:\nDykes, B. (2019). Effective Data Storytelling: How to Drive Change with Data, Narrative and Visuals. John Wiley & Sons."
   },
   {
     "objectID": "index.html#feedback-from-students",
