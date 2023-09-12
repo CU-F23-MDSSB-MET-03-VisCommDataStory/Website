@@ -81,7 +81,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Developing Schedule\n\n\n\n\n\nA draft schedule will be published here in Week 1.\nThe schedule is tentative it will be continuously updated also with readings, preparation tasks, pointers to student contributions.\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDates\nTopic\nMilestones\n\n\n\n\n1\n09-05\nWhat is Visual Communication? What is Data Storytelling? Slides Week 1\n\n\n\n2\n09-12\nYour Data Visualizations from Homework 1, Data Story Formats, First List of possible Projects\nHomework 1 done.\n\n\n3\n09-19\n\nProject topics and teams fixed\n\n\n4\n09-26\n\n\n\n\n-\n10-03\nNo class, public holiday\n\n\n\n5\n10-10\nStudent project pitches (~5 min. per project with first visual and one story point )\n\n\n\n6\n10-17\n\n\n\n\n7\n10-24\n\n\n\n\n-\n10-31\nNo class, public holiday\n\n\n\n8\n11-07\n\n\n\n\n9\n11-18\n\n\n\n\n10\n11-21\n\n\n\n\n11\n11-28\nFinal Student Presentations\n\n\n\n12\n12-05\nFinal Student Presentations"
+    "text": "Developing Schedule\n\n\n\n\n\nA draft schedule will be published here in Week 1.\nThe schedule is tentative it will be continuously updated also with readings, preparation tasks, pointers to student contributions.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDates\nTopic\nMilestones\nReading\n\n\n\n\n1\n09-05\nWhat is Visual Communication? What is Data Storytelling? Slides Week 1\n\n\n\n\n2\n09-12\nYour Data Visualizations from Homework 1, Towards Good Graphics, Example, Activity (link to presentation at Organization repo), Possible project data sources\nHomework 1 done.\n\n\n\n3\n09-19\nData Story Formats\nProject topics and teams drafted\nDykes: Ch 1 and 2\n\n\n4\n09-26\n\nProject topics and teams fixed\n\n\n\n-\n10-03\nNo class, public holiday\n\n\n\n\n5\n10-10\nStudent project pitches (~5 min. per project with first visual and one story point )\n\n\n\n\n6\n10-17\n\n\n\n\n\n7\n10-24\n\n\n\n\n\n-\n10-31\nNo class, public holiday\n\n\n\n\n8\n11-07\n\n\n\n\n\n9\n11-18\n\n\n\n\n\n10\n11-21\n\n\n\n\n\n11\n11-28\nFinal Student Presentations\n\n\n\n\n12\n12-05\nFinal Student Presentations"
   },
   {
     "objectID": "hw-01-instr.html",
@@ -277,7 +277,7 @@
     "href": "Towards_Great_Visualization_Brexit.html#first-try-segmented-stacked-barplot",
     "title": "Tips for Great Visualizations",
     "section": "First try: Segmented stacked barplot",
-    "text": "First try: Segmented stacked barplot\n\nPlot 1Code 1Plot 2Code 2\n\n\n\n\n\n\n\n\n\n\n\n\n\nggplot(brexit, aes(y = opinion, fill = region)) +\n  geom_bar()\n\n\n\n\n\n\n\n\n\n\n\n\n\nggplot(brexit, aes(y = opinion, fill = region)) +\n  geom_bar()\n\n\n\n\nThey are both hard to read."
+    "text": "First try: Segmented stacked barplot\n\nPlot 1Code 1Plot 2Code 2\n\n\n\n\n\n\n\n\n\n\n\n\n\nggplot(brexit, aes(y = opinion, fill = region)) +\n  geom_bar()\n\n\n\n\n\n\n\n\n\n\n\n\n\nggplot(brexit, aes(y = region, fill = opinion))) +\n  geom_bar()\n\n\n\n\nThey are both hard to read."
   },
   {
     "objectID": "Towards_Great_Visualization_Brexit.html#use-facets",
