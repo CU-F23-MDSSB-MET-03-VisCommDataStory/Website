@@ -74,14 +74,14 @@
     "href": "datastorytelling.html#aristotles-rhetoric",
     "title": "Data Storytelling - Storyboarding Activity Guide",
     "section": "Aristotle’s rhetoric",
-    "text": "Aristotle’s rhetoric\n\n\n\n\nActivity:\n\nReflect on your story: Do you address all these 5 rhetoric perspectives?\n\nShow credibility by not telling stories unrelated to data.\nWhat parts appeal to emotion?\nDo you have logical reasoning for your main point?\nIf there make reference to timeliness.\nDo you know the main purpose of the story?\n\n\n\n\n\n\n\n\n\n\n\nJU-F22-MDSSB-MET-03: Visual Communication and Data Storytelling"
+    "text": "Aristotle’s rhetoric\n\n\n\n\nActivity:\n\nReflect on your story: Do you address all these 5 rhetoric perspectives?\n\nShow credibility by not telling stories unrelated to data.\nWhat parts appeal to emotion?\nDo you have logical reasoning for your main point?\nIf there make reference to timeliness.\nDo you know the main purpose of the story?\n\n\n\n\n\n\n\n\n\n\n\nCU-F23-MDSSB-MET-03: Visual Communication and Data Storytelling"
   },
   {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Developing Schedule\n\n\n\n\n\nThe schedule is tentative it will be continuously updated also with readings, preparation tasks, pointers to student contributions.\nImportant Links:\nGitHub Organization of the course: https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory\nNon-public schedule information is provided in the Organization Repository: https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDates\nTopic\nMilestones\nReading\n\n\n\n\n1\n09-05\nWhat is Visual Communication? What is Data Storytelling? Slides Week 1\n\n\n\n\n2\n09-12\nYour Data Visualizations from Homework 1, Towards Good Graphics, Example, Activity (link to presentation at Organization repo), Possible student projects/data sources\nHomework 1 done.\n\n\n\n3\n09-19\nPreparations: 1. Those who haven’t: HW-01. 2. Reading (look right of here). 3. Prepare R for Activity. Watch out for details on Teams coming on Weekend.  Activity: Visualization with ggplot. Input: Data Story Formats (for projects)\nProject topics and teams drafted\nDykes: Ch 1 and 2\n\n\n4\n09-26\n\nProject topics and teams fixed\n\n\n\n-\n10-03\nNo class, public holiday\n\n\n\n\n5\n10-10\nStudent project pitches (~5 min. per project with first visual and one story point )\n\n\n\n\n6\n10-17\n\n\n\n\n\n7\n10-24\n\n\n\n\n\n-\n10-31\nNo class, public holiday\n\n\n\n\n8\n11-07\n\n\n\n\n\n9\n11-18\n\n\n\n\n\n10\n11-21\n\n\n\n\n\n11\n11-28\nFinal Student Presentations\n\n\n\n\n12\n12-05\nFinal Student Presentations"
+    "text": "Developing Schedule\n\n\n\n\n\nThe schedule is tentative it will be continuously updated also with readings, preparation tasks, pointers to student contributions.\nImportant Links:\nGitHub Organization of the course: https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory\nNon-public schedule information is provided in the Organization Repository: https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDates\nTopic\nMilestones\nReading\n\n\n\n\n1\n09-05\nWhat is Visual Communication? What is Data Storytelling? Slides Week 1\n\n\n\n\n2\n09-12\nYour Data Visualizations from Homework 1, Towards Good Graphics, Example, Activity (link to presentation at Organization repo), Possible student projects/data sources\nHomework 1 done.\n\n\n\n3\n09-19\nPreparations: 1. Those who haven’t: HW-01. 2. Reading (look right of here). 3. Prepare R for Activity. Watch out for details on Teams coming on Weekend.  Activity: Visualization with ggplot. Input: Data Story Formats (for projects)\nProject topics and teams drafted\nDykes: Ch 1 and 2\n\n\n4\n09-26\n\nProject topics and teams fixed\n\n\n\n-\n10-03\nNo class, public holiday\n\n\n\n\n5\n10-10\nStudent project pitches (~5 min. per project with first visual and one story point )\n\n\n\n\n6\n10-17\nStudent project pitches (continued) Input Ch. 1 and 2. Effective Story Telling\n\n\n\n\n7\n10-24\n\n\n\n\n\n-\n10-31\nNo class, public holiday\n\n\n\n\n8\n11-07\n\n\n\n\n\n9\n11-18\n\n\n\n\n\n10\n11-21\n\n\n\n\n\n11\n11-28\nFinal Student Presentations\n\n\n\n\n12\n12-05\nFinal Student Presentations"
   },
   {
     "objectID": "hw-01-instr.html",
@@ -159,6 +159,69 @@
     "title": "Homework 01",
     "section": "4.4 Check what you did",
     "text": "4.4 Check what you did\nGo to your repository on https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory and click if the file “hw-01.html” is there.\nNote, that GitHub does not show the html file in rendered version but its source code – after all, GitHub is a code repository. However, it is possible to download the file by clicking on “Raw”, save the raw file to your local computer, and then open the local file in the browser. It is also possible to publish html-ebsites from GitHub, but we do not do it now."
+  },
+  {
+    "objectID": "purpose_insights.html#dykes-2019",
+    "href": "purpose_insights.html#dykes-2019",
+    "title": "Data Storytelling - Purpose and Insights",
+    "section": "Dykes (2019)",
+    "text": "Dykes (2019)\n\n\n\nDykes, B. (2019). Effective Data Storytelling: How to Drive Change with Data, Narrative and Visuals. John Wiley & Sons.\nhttps://www.effectivedatastorytelling.com/\n\nChapter 1\nIntroduction to Driving Change through Insight\nChapter 2\nWhy Tell Stories with Data?"
+  },
+  {
+    "objectID": "purpose_insights.html#section-headlines-of-chapter-1",
+    "href": "purpose_insights.html#section-headlines-of-chapter-1",
+    "title": "Data Storytelling - Purpose and Insights",
+    "section": "Section Headlines of Chapter 1",
+    "text": "Section Headlines of Chapter 1\n\nWhy Change Is Important\nEveryone Becomes an Analyst\nData Literacy Is Essential in Today’s Data Economy\nWhat Is an Insight?\nEffective Communication Turns Insights into Actions\nData-driven Change Isn’t Easy\nStrive to Communicate, Not Just Inform\nTelling the Story of Your Data"
+  },
+  {
+    "objectID": "purpose_insights.html#data-literacy",
+    "href": "purpose_insights.html#data-literacy",
+    "title": "Data Storytelling - Purpose and Insights",
+    "section": "Data Literacy",
+    "text": "Data Literacy\nDefinition: The ability to understand and communicate data.\n\nData has no value for data illiterate people!\nPeople can be data literate with knowing much statistics or even programming!\nAs data scientists we are expected to\n\nknow some statistics and programming\ncommunicate data insights on a high level to data literate people\nbeing able to communicate data insights to less data illiterate people\n\n\n\nThe challenges for your project: \n\nBring you main insights across to an audience with low and intermediate data literacy!"
+  },
+  {
+    "objectID": "purpose_insights.html#what-is-an-insight",
+    "href": "purpose_insights.html#what-is-an-insight",
+    "title": "Data Storytelling - Purpose and Insights",
+    "section": "What is an insight?",
+    "text": "What is an insight?\nEtymology: inner sight” or “sight with the ‘eyes’ of the mind”\nA Definition: an unexpected shift in the way we understand things\nHowever: Do not feel pressured! The insight need not be ground breaking. Just provide a solid insight.\n\nWhat can be main insights of your project presentation?\n\nList at least 3 potential main insights, better more\n(It’s okay if the insights are uncertain for now because you do not know yet)\nDiscuss for each project in your group and select a tentative main insight (not binding)\nRole of other project members:\n\nAsk questions\nWhat is important to know as an outsider?\nWhat is most interesting as main insight?"
+  },
+  {
+    "objectID": "purpose_insights.html#which-perspective-of-communication-shall-the-project-have",
+    "href": "purpose_insights.html#which-perspective-of-communication-shall-the-project-have",
+    "title": "Data Storytelling - Purpose and Insights",
+    "section": "Which perspective of communication shall the project have?",
+    "text": "Which perspective of communication shall the project have?\nYou can communicate to the audience from a\nPersonal  Insider  Outsider \nperspective.\n\nWhich one shall report and presentation have in your project?"
+  },
+  {
+    "objectID": "purpose_insights.html#path-to-value",
+    "href": "purpose_insights.html#path-to-value",
+    "title": "Data Storytelling - Purpose and Insights",
+    "section": "Path to value",
+    "text": "Path to value\n\n\nThink about a potential role your project report could have (for your audience)"
+  },
+  {
+    "objectID": "purpose_insights.html#essential-elements-of-data-stories",
+    "href": "purpose_insights.html#essential-elements-of-data-stories",
+    "title": "Data Storytelling - Purpose and Insights",
+    "section": "3 Essential Elements of Data Stories",
+    "text": "3 Essential Elements of Data Stories\nData, Visuals, Narrative\n\n\nThe three essential elements of data stories.\n\n\n\nExplain. Narrative coupled with data.\n\nWhat’s happening in the data?\nWhat is the context?\nGuide through the data structure!\nWhy is a particular insight important?\n\nEnlighten. Visuals applied to data.\n\nSome insights are hard with numbers only.\nShow patterns and outliers otherwise hidden.\n\nEngage. Narrative and visuals merged together.\n\nEngage (or even entertain) an audience.\nVisuals capture interest, only a story holds attention."
+  },
+  {
+    "objectID": "purpose_insights.html#aristotles-rhetoric",
+    "href": "purpose_insights.html#aristotles-rhetoric",
+    "title": "Data Storytelling - Purpose and Insights",
+    "section": "Aristotle’s rhetoric",
+    "text": "Aristotle’s rhetoric\n\n\n\n\nActivity:\n\nReflect on your story: Do you address all these 5 rhetoric perspectives?\n\nShow credibility by not telling stories unrelated to data.\nWhat parts appeal to emotion?\nDo you have logical reasoning for your main point?\nCan you make reference to timeliness.\nDo you know the main purpose of the story?"
+  },
+  {
+    "objectID": "purpose_insights.html#aristotles-rhetoric-1",
+    "href": "purpose_insights.html#aristotles-rhetoric-1",
+    "title": "Data Storytelling - Purpose and Insights",
+    "section": "Aristotle’s rhetoric",
+    "text": "Aristotle’s rhetoric\n\n\n\n\n\nEthos an appeal to credibility\nLogos an appeal to logic or reason\nPathos an appeal to emotion\nTelos an appeal to purpose\nKairos an appeal to timeliness (opportune moment)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCU-F23-MDSSB-MET-03: Visual Communication and Data Storytelling"
   },
   {
     "objectID": "student-projects.html",
@@ -354,7 +417,7 @@
     "href": "Towards_Great_Visualization_Brexit.html#adjust-the-general-text-size",
     "title": "Tips for Great Visualizations",
     "section": "Adjust the general text size",
-    "text": "Adjust the general text size\n\nPlotCode\n\n\n\n\n\n\n\n\n\n\n\n\n\nggplot(brexit, aes(y = opinion, fill = opinion)) +\n  geom_bar() + \n  facet_wrap(\"region\", nrow = 1) + \n  guides(fill = \"none\") +\n  labs(\n    title = \"Was Britain right/wrong to vote to leave EU?\",\n    subtitle = \"YouGov Survey Results, 2-3 September 2019\",\n    caption = \"Source document from YouGov: bit.ly/2lCJZVg\",\n    x = NULL, y = NULL\n  ) +\n  scale_fill_manual(values = c(\n    \"Wrong\" = \"#ef8a62\",\n    \"Right\" = \"#67a9cf\",\n    \"Don't know\" = \"gray\"\n  )) +\n  theme_minimal(base_size = 14)\n\n\n\n\n\n\nJU-F22-MDSSB-MET-03: Visual Communication and Data Storytelling"
+    "text": "Adjust the general text size\n\nPlotCode\n\n\n\n\n\n\n\n\n\n\n\n\n\nggplot(brexit, aes(y = opinion, fill = opinion)) +\n  geom_bar() + \n  facet_wrap(\"region\", nrow = 1) + \n  guides(fill = \"none\") +\n  labs(\n    title = \"Was Britain right/wrong to vote to leave EU?\",\n    subtitle = \"YouGov Survey Results, 2-3 September 2019\",\n    caption = \"Source document from YouGov: bit.ly/2lCJZVg\",\n    x = NULL, y = NULL\n  ) +\n  scale_fill_manual(values = c(\n    \"Wrong\" = \"#ef8a62\",\n    \"Right\" = \"#67a9cf\",\n    \"Don't know\" = \"gray\"\n  )) +\n  theme_minimal(base_size = 14)\n\n\n\n\n\n\nCU-F23-MDSSB-MET-03: Visual Communication and Data Storytelling"
   },
   {
     "objectID": "student-topics.html",
