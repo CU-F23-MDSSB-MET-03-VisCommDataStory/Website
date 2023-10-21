@@ -81,7 +81,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Developing Schedule\n\n\n\n\n\nThe schedule is tentative it will be continuously updated also with readings, preparation tasks, pointers to student contributions.\nImportant Links:\nGitHub Organization of the course: https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory\nNon-public schedule information is provided in the Organization Repository: https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDates\nTopic\nMilestones\nReading\n\n\n\n\n1\n09-05\nWhat is Visual Communication? What is Data Storytelling? Slides Week 1\n\n\n\n\n2\n09-12\nYour Data Visualizations from Homework 1, Towards Good Graphics, Example, Activity (link to presentation at Organization repo), Possible student projects/data sources\nHomework 1 done.\n\n\n\n3\n09-19\nPreparations: 1. Those who haven’t: HW-01. 2. Reading (look right of here). 3. Prepare R for Activity. Watch out for details on Teams coming on Weekend.  Activity: Visualization with ggplot. Input: Data Story Formats (for projects)\nProject topics and teams drafted\nDykes: Ch 1 and 2\n\n\n4\n09-26\n\nProject topics and teams fixed\n\n\n\n-\n10-03\nNo class, public holiday\n\n\n\n\n5\n10-10\nStudent project pitches (~5 min. per project with first visual and one story point )\n\n\n\n\n6\n10-17\nStudent project pitches (continued) Input Ch. 1 and 2. Effective Story Telling\n\n\n\n\n7\n10-24\n\n\n\n\n\n-\n10-31\nNo class, public holiday\n\n\n\n\n8\n11-07\n\n\n\n\n\n9\n11-18\n\n\n\n\n\n10\n11-21\n\n\n\n\n\n11\n11-28\nFinal Student Presentations\n\n\n\n\n12\n12-05\nFinal Student Presentations"
+    "text": "Developing Schedule\n\n\n\n\n\nThe schedule is tentative it will be continuously updated also with readings, preparation tasks, pointers to student contributions.\nImportant Links:\nGitHub Organization of the course: https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory\n\n\n\nStudent Preparation Tasks and more detail in the private Organization Repository: https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization\n\n\n\n\n\n\n\n\n\n\nWeek\nDates\nTopic\nMilestones\nReading\n\n\n\n\n1\n09-05\nWhat is Visual Communication? What is Data Storytelling? Slides Week 1\n\n\n\n\n2\n09-12\nYour Data Visualizations from Homework 1, Towards Good Graphics, Example, Activity (link to presentation at Organization repo), Possible student projects/data sources\nHomework 1 done.\n\n\n\n3\n09-19\nYour visualizations from Homework 1 (continued)  Activity: Visualization with ggplot. Input: Data Story Formats (for projects)\n\nDykes: Ch 1 and 2\n\n\n4\n09-26\nIndividual online meetings: Project topics\nProject topics and teams fixed\n\n\n\n-\n10-03\nNo class, public holiday\n\n\n\n\n5\n10-10\nProject pitches (~5 min. per project with first visual and one story point )\n1\n\n\n\n6\n10-17\nProject pitches (continued) Input Ch. 1 and 2. Effective Story Telling Discussing projects main insights\n\n\n\n\n7\n10-24\nClass room activity: Drafting Visuals\n2\n\n\n\n-\n10-31\nNo class, public holiday\n\nDykes: Ch (3), 4, 5, 6 (List of most important parts here)\n\n\n8\n11-07\nClass room activity: Story Boarding\n3\n\n\n\n9\n11-18\n(Activity: to be decided) Setting up final Visuals\n4\nDykes: Ch 7\n\n\n10\n11-21\n(Activity: to be decided) Polishing Visuals\n\nDykes: Ch 8\n\n\n11\n11-28\nFinal Student Presentations\n5\n\n\n\n12\n12-05\nFinal Student Presentations\n5"
   },
   {
     "objectID": "hw-01-instr.html",
@@ -161,6 +161,62 @@
     "text": "4.4 Check what you did\nGo to your repository on https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory and click if the file “hw-01.html” is there.\nNote, that GitHub does not show the html file in rendered version but its source code – after all, GitHub is a code repository. However, it is possible to download the file by clicking on “Raw”, save the raw file to your local computer, and then open the local file in the browser. It is also possible to publish html-ebsites from GitHub, but we do not do it now."
   },
   {
+    "objectID": "milestones.html",
+    "href": "milestones.html",
+    "title": "Project Reports: Milestones",
+    "section": "",
+    "text": "The student project report is the central assessment item of the module for Examination and Grading.\nProjects can be done in teams of two or individually.\nThis list of milestones guides through the preparation, presentation and delivery of your report during the semester.\nGo through the checklists of the Milestones repeatedly. Of course, you can also go back to earlier Milestones past the planned week and improve your report material."
+  },
+  {
+    "objectID": "milestones.html#m1",
+    "href": "milestones.html#m1",
+    "title": "Project Reports: Milestones",
+    "section": "Milestone 1, Week 5: Project pitch",
+    "text": "Milestone 1, Week 5: Project pitch\n\nData and topic chosen\nTeams formed\nProject repository cloned, rendering of report and presentation tested\nProject pitch done"
+  },
+  {
+    "objectID": "milestones.html#m2",
+    "href": "milestones.html#m2",
+    "title": "Project Reports: Milestones",
+    "section": "Milestone 2, Week 7: Main insight 💡",
+    "text": "Milestone 2, Week 7: Main insight 💡\n\nList of main insights in your report drafted (about 3-6)\nPrioritized what will be the main insights"
+  },
+  {
+    "objectID": "milestones.html#m3",
+    "href": "milestones.html#m3",
+    "title": "Project Reports: Milestones",
+    "section": "Milestone 3, Week 8: Visual Drafts 📊📈📉️",
+    "text": "Milestone 3, Week 8: Visual Drafts 📊📈📉️\n\nFor each insight\n\na visuals drafted in the report or the presentation (a draft can be a first coded visual, or even photo of a sketch on paper)\nnotes and ideas for the final version"
+  },
+  {
+    "objectID": "milestones.html#m4",
+    "href": "milestones.html#m4",
+    "title": "Project Reports: Milestones",
+    "section": "Milestone 4, Week 9: Data story and storyboard 📖",
+    "text": "Milestone 4, Week 9: Data story and storyboard 📖\n\nDescribed the audience you want to address\nHave all your story points (e.g. as post its) drafted as a story board on paper (or in a digital tool).\nDraft all slide titles in the presentaton slidedeck."
+  },
+  {
+    "objectID": "milestones.html#m5",
+    "href": "milestones.html#m5",
+    "title": "Project Reports: Milestones",
+    "section": "Milestone 5, Week 11-12: Presentation 💬",
+    "text": "Milestone 5, Week 11-12: Presentation 💬\n\nFinalized your slidedeck as part of the project delivery. (Additional minor graphical improvements are allowed afterwards.)\nTold your data story with the help of your slidedeck in class!"
+  },
+  {
+    "objectID": "milestones.html#m6",
+    "href": "milestones.html#m6",
+    "title": "Project Reports: Milestones",
+    "section": "Milestone 6, Dec 22: Final report 📄",
+    "text": "Milestone 6, Dec 22: Final report 📄\n\nFinalized your written report.\nChecked if the rendering works and the html-files opened and a appear as they should in a local browser.\nCleaned repository (removed unnecessary files etc.) and pushed a final commit by Dec 22, 2023 as the deadline is set in the Academic Calendar.\nDecided if you want to publish your report on the web."
+  },
+  {
+    "objectID": "milestones.html#delivery",
+    "href": "milestones.html#delivery",
+    "title": "Project Reports: Milestones",
+    "section": "Delivery",
+    "text": "Delivery\nFor details about the project report the Examination and Grading in the Syllabus\nEssential parts of your delivery:\n\nReport\nSlidedeck\n\nOptional:\n\nDashboard if not included in website.\nReproduction code if not folded in the report or report appendix."
+  },
+  {
     "objectID": "purpose_insights.html#dykes-2019",
     "href": "purpose_insights.html#dykes-2019",
     "title": "Data Storytelling - Purpose and Insights",
@@ -222,13 +278,6 @@
     "title": "Data Storytelling - Purpose and Insights",
     "section": "Aristotle’s rhetoric",
     "text": "Aristotle’s rhetoric\n\n\n\n\nActivity:\nCheck your potential story:\nCan you address all these 5 rhetoric perspectives?\n\nShow credibility by not telling stories unrelated to data.\nWhat parts appeal to emotion, do you want to emphasize it, to make it relatable?\nDo you have logical reasoning for your main point?\nCan you make reference to timeliness.\nWhat is the main purpose of the story?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCU-F23-MDSSB-MET-03: Visual Communication and Data Storytelling"
-  },
-  {
-    "objectID": "student-projects.html",
-    "href": "student-projects.html",
-    "title": "Student Project Reports",
-    "section": "",
-    "text": "Important\n\n\n\nSchedule for storyframing appointments:\nhttps://github.com/JU-F22-MDSSB-MET-03/Schedule-Organization\n\n\n\n1 Milestone 1: Choose data and topic ☑️\nThe student project report is the central assessment item of the module for Examination and Grading.\nProjects can be done in teams of two or individually.\nProject pitches (see below) shall be done during class the latest on Week 7: Tue, Oct 18, better in the weeks before, because you save more time for the actual work.\nTo do until Sat, Oct 1:\n\nThink about the topic of your project (see the list for the pitch below) and form a team.\nDecide when you want to pitch your project (Week 5, Oct 4; Week 6, Oct 11; Week 7, Oct 18), and write it on Teams in the course’s general channel as a reply to the respective conversation \n\n\n\n\n\n\n\nTip\n\n\n\nIndividuals or teams which settled on project idea can start working on the project pitch!\nThe earlier you start the more time you have to work on the actual project. The project pitch is a short intro in class (5-10 min.) which tells:\n\nThe (main) data source you use (and have looked at already)\nThe main points/questions/insights the data story should be about\nOne draft visualization of the data\nOptional: Further ideas for the project, questions you are pondering\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nYou can make your data story into a nice thing to show your competence to the outside world. It is not too difficult to publish a website from your final repository. Make your report such that it is worth to publish and show it!\n\n\n\n\n2 Milestone 2: Storyframing ‼📊📈📉️\nBefore you can communicate insights with a data story, you must find one!\nYou have done the storyframing when:\n\nYou have your data operational on your computer to prepare slidedeck and report.\nYou have selected the main dimensions and the key metrics you want to focus on in the data.\nYou know the main insight(s) you want to communicate.\nYou have an idea of the audience you want to address.\n\nActivity:\n\nWork on data import, a data description, and a first visualization in your document. Use the template in index.qmd in your project repository https://github.com/JU-F22-MDSSB-MET-03/project-YOURNAMES.\nMeet with the instructor: Discuss your storyframing. Appointments lie in the regular class hours, so they have been fixed here https://github.com/JU-F22-MDSSB-MET-03/Schedule-Organization.\n\n\n\n3 Milestone 3: A data story and a storyboard (☑️)\nYou develop your data story with the storyboarding methods.\nActivity:\n\nStoryboarding activity in class, Nov 8.\nDo it independently following the activities in Data Storytelling - Storyboarding Activity Guide\n\nAdditional activities:\n\nThe students preparations for Week 10: Describe your audience, Abstract, one sentence version.\nThe student preparations for Week 13: Improve your visuals going through Chapters 7 and 8 of Dykes (2019).\n\n\n\n4 Milestone 4: Presentation 💬\nTell your data story with the help of your slidedeck in class on Dec, 6.\n\n\n5 Milestone 5: Final report 📄\nSubmit your final report by the end of 2022.\nFor details about the project report the Examination and Grading in the Syllabus\nEssential parts:\n\nWritten reproducible report\nSlidedeck\n\nOptional:\n\nDashboard file if not included in website.\nReproduction code if not folded in in report or report appendix."
   },
   {
     "objectID": "Towards_Great_Visualization_Brexit.html#keep-it-simple",
@@ -476,8 +525,8 @@
     "text": "6 Intended Learning Outcomes\nThe module descriptions can be found in the DSSB Handbook\n\n6.1 From the handbook\nBy the end of this module, students will be able\n\nvisually represent various data sources\nchoose suitable visual representations for different data sets\nevaluate visual depictions of data\nassist users in visual data analysis\ntarget visual representations to different audiences\n\n\n\n6.2 Additional remark from the instructor\nYou will build on your experience\n\nthe small Data Science Project in Data Science Tools in the the 1st semester\nyour Data Science Lab Project in the 2nd semester\n\nNow in the 3rd semester you will create another Data Science Project.\nThis time it will focus much more on communicating insights with data. You will write the report such that a non Data Scientist can enjoy reading it and gain some insights about the datastory you tell."
   },
   {
-    "objectID": "index.html#examination-and-assessment",
-    "href": "index.html#examination-and-assessment",
+    "objectID": "index.html#examination",
+    "href": "index.html#examination",
     "title": "Visual Communication and Data Story-telling",
     "section": "7 Examination and Assessment",
     "text": "7 Examination and Assessment\nFrom the Handbook:\nAssessment Type: Project Report (6000 - 8000 words)\nThis is the official word count form the handbook. However, I will not count words and I will not assess based on fulfilling the word count. Anyway, essential parts the submissions will be visual.\nDetails about the project report: The project report is a website which tells a data story which is rendered with quarto.\nIt includes\n\na slide deck used to tell the story in a presentation,\na written report tells the story for readers and gives more details and more visuals, e.g. in Appendices.\n\nOptional the submission can also include a dashboard with interactive graphs which enables individual exploration by the reader.\nThe report must be reproducible. That means the source code must be provided.\nHowever, the report must be readable without reading code. The target audience is not a programmer and they should not see code while reading. Technical parts should be in the appendix.\nEach student has a sandbox repository with a template, how it could look.\n\nDelivery via GitHub.\n\n\n\n\n\n\nImportant\n\n\n\nYou can make your data story into a nice thing to show your competence to the outside world. It is not too difficult to publish the report as a website from your final repository. Make your report such that it is worth to publish and show it!\nExample from last year’s cohort: https://ju-f22-mdssb-met-03.github.io/project-VictorFloriann/"
